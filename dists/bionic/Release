@@ -1,0 +1,19 @@
+Origin: Leo Schick
+Label: leo-schick
+Codename: bionic
+Date: Sat, 02 Apr 2022 07:57:20 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 73cb4dbde492a80d2fcd47a070570ea8 503 main/binary-amd64/Packages
+ c0a72d3a7772ce49ca61d158cc2b70c1 329 main/binary-amd64/Packages.gz
+ 4a41595ee47331e6d46eded389cbfc4e 106 main/binary-amd64/Release
+SHA1:
+ 9b651aa7bb57aa280065d312e234c4427d99a786 503 main/binary-amd64/Packages
+ 85502c2fb3df289c728c0e27e1c24377eaeb8efc 329 main/binary-amd64/Packages.gz
+ 70f94814a0ca1a69dfb19e1c0f97c916361472e2 106 main/binary-amd64/Release
+SHA256:
+ c72eae26b8a6ae40d2fdcdd15b0a0a733b5c45a6eab9dea72c2c5e7a33c32420 503 main/binary-amd64/Packages
+ 9c54d2da67ecd9a4bb95d7b53618d2f10f25e59c5c5ceadfce6cacf13298909e 329 main/binary-amd64/Packages.gz
+ 7839e509dfbe3856d15d2f609881a612ce2bc8e8822891163ad711befb332035 106 main/binary-amd64/Release
