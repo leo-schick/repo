@@ -1,0 +1,7 @@
+Origin: Leo Schick
+Label: leo-schick
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: DF57E6D9EE0A2660
