@@ -3,13 +3,13 @@ Architecture: all
 Depends: dotnet-runtime-6.0
 Priority: extra
 Section: misc
-Filename: pool/main/M/MsSsasOlapJsonDeployConsoleApp/MsSsasOlapJsonDeployConsoleApp_1.0.0_all.deb
-Size: 8608056
-SHA256: 0351c169c13138e029afb693b56f2e68458e36acbc16b76bbcdac59e34f9eaef
-SHA1: 826068ae228ae7499d67942996c0442a6e765998
-MD5sum: e30c8e0c41dd23ea2ee30cd5b51e71ae
+Filename: pool/main/M/MsSsasOlapJsonDeployConsoleApp/MsSsasOlapJsonDeployConsoleApp_1.1.0_all.deb
+Size: 8614230
+SHA256: badfdc9caf6a8dd1fe1f3258f8a73f7e1d90405742b4298f505a75d6a0e809b7
+SHA1: 40c051c619c5fbc7ea87ce9addeffc24cf430c95
+MD5sum: 42db364b661be686cbba3f100f082b5d
 Description: Package Description
-Installed-Size: 36336
+Installed-Size: 36340
 Maintainer: MsSsasOlapJsonDeployConsoleApp
-Version: 1.0.0
+Version: 1.1.0
 
