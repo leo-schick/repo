@@ -1,0 +1,1 @@
+This repository is deprecated. Please use [leo-schick/ppa](https://github.com/leo-schick/ppa).
